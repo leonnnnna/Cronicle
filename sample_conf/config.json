@@ -1,8 +1,8 @@
 {
 	"base_app_url": "http://localhost:3012",
-	"email_from": "admin@localhost",
-	"smtp_hostname": "localhost",
-	"smtp_port": 25,
+	"email_from": "cronicle@centerm",
+	"smtp_hostname": "smtp.qq.com",
+	"smtp_port": 465,
 	"max_emails_per_day": 0,
 	"secret_key": "CHANGE_ME",
 	
